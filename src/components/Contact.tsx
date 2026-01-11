@@ -130,7 +130,7 @@ export default function Contact() {
                   </div>
                   <div className="flex-1">
                     <div className="font-bold text-sm">{option.label}</div>
-                    <div className="text-xs opacity-70">{option.value}</div>
+                    <div className="text-[10px] opacity-70 break-words">{option.value}</div>
                   </div>
                   {selectedOption === index && (
                     <img 
