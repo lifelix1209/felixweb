@@ -26,7 +26,7 @@ export default function Contact() {
     { 
       icon: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/teachy-tv.png", 
       label: "WEBSITE", 
-      value: "Pokemon Master Journey of Felix" 
+      value: "Felix's Pokemon Master Journey" 
     },
   ];
 
